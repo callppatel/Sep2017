@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG Suite" duration-ms="4753" started-at="2016-07-08T05:28:20Z" finished-at="2016-07-08T05:28:25Z">
+    <groups>
+    </groups>
+    <test name="TestNG Test Case" duration-ms="4753" started-at="2016-07-08T05:28:20Z" finished-at="2016-07-08T05:28:25Z">
+      <class name="Framework.AnnotationExpls">
+        <test-method status="PASS" signature="BeforeTestSuite()[pri:0, instance:Framework.AnnotationExpls@5c7fa833]" name="BeforeTestSuite" is-config="true" duration-ms="8" started-at="2016-07-08T01:28:20Z" finished-at="2016-07-08T01:28:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestSuite -->
+        <test-method status="PASS" signature="beforeMethods()[pri:0, instance:Framework.AnnotationExpls@5c7fa833]" name="beforeMethods" is-config="true" duration-ms="0" started-at="2016-07-08T01:28:20Z" finished-at="2016-07-08T01:28:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method status="PASS" signature="ActualTestCase()[pri:0, instance:Framework.AnnotationExpls@5c7fa833]" name="ActualTestCase" duration-ms="4740" started-at="2016-07-08T01:28:20Z" finished-at="2016-07-08T01:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActualTestCase -->
+        <test-method status="PASS" signature="AfterTestEx()[pri:0, instance:Framework.AnnotationExpls@5c7fa833]" name="AfterTestEx" is-config="true" duration-ms="1" started-at="2016-07-08T01:28:25Z" finished-at="2016-07-08T01:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestEx -->
+        <test-method status="PASS" signature="AfterTestSuite()[pri:0, instance:Framework.AnnotationExpls@5c7fa833]" name="AfterTestSuite" is-config="true" duration-ms="1" started-at="2016-07-08T01:28:25Z" finished-at="2016-07-08T01:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestSuite -->
+      </class> <!-- Framework.AnnotationExpls -->
+    </test> <!-- TestNG Test Case -->
+  </suite> <!-- TestNG Suite -->
+</testng-results>
